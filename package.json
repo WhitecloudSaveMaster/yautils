@@ -1,0 +1,17 @@
+{
+  "name": "yautils",
+  "version": "1.0.0",
+  "description": "yaya's util module",
+  "main": "utils.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "yaya",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
